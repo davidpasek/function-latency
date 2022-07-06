@@ -19,7 +19,7 @@ def main():
   t1 = time.time_ns()
   print ("Start time: ",t1)
 
-  num_of_func_calls = 100000000
+  num_of_func_calls = 10000000
   i = num_of_func_calls
 
   # Call function
